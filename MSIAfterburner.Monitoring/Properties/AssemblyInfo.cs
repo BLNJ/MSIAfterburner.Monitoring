@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // Attribute gesteuert. Ändern Sie diese Attributwerte, um die Informationen zu ändern,
 // die einer Assembly zugeordnet sind.
 [assembly: AssemblyTitle("MSIAfterburner.Monitoring")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Little helper to build MSI Afterburner Monitoring Plugins")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("BLNJ")]
 [assembly: AssemblyProduct("MSIAfterburner.Monitoring")]
-[assembly: AssemblyCopyright("Copyright ©  2022")]
+[assembly: AssemblyCopyright("Copyright © BLNJ 2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
